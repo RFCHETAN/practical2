@@ -1,0 +1,42 @@
+1637852625123	geckodriver	INFO	Listening on 127.0.0.1:50398
+1637852628224	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50399" "-no-remote" "-profile" "C:\\Users\\CHETAN~1\\AppData\\Local\\Temp\\rust_mozprofileT2WTnx"
+1637852638925	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Chetan Ramesh\\AppData\\Local\\Temp\\rust_mozprofileT2WTnx\\search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+DevTools listening on ws://localhost:50399/devtools/browser/e027b457-f2be-4c73-879a-ef0d072753c3
+1637852678602	Marionette	INFO	Listening on port 50405
+1637852679370	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637852691832	Marionette	INFO	Stopped listening on port 50405
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+[Parent 4316, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1637852698024	geckodriver	INFO	Listening on 127.0.0.1:50483
+1637852701088	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50484" "-no-remote" "-profile" "C:\\Users\\CHETAN~1\\AppData\\Local\\Temp\\rust_mozprofileyqNQs0"
+1637852702896	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\Chetan Ramesh\\AppData\\Local\\Temp\\rust_mozprofileyqNQs0\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50484/devtools/browser/f285fbc8-2489-4faf-947d-228e781c9cd0
+1637852712858	Marionette	INFO	Listening on port 50489
+1637852713057	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637852731898	Marionette	INFO	Stopped listening on port 50489
+JavaScript error: resource:///modules/Interactions.jsm, line 230: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3B0001,name=PCookieService::Msg_SetCookies) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x590008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
